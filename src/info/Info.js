@@ -106,7 +106,7 @@ export const info = {
         },
         {
             title: "Project 4",
-            live: "https://paytonpierce.dev",
+            live: "https://my-portfolio-klco.onrender.com/",
             source: "https://github.com/proahmed22/QuoteApp",
             image: mock4
         },
